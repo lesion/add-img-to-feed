@@ -1,8 +1,8 @@
 === Add Image to Feed ===
 Contributors: lesion
-Tags: enclosure, feed, media:content, thumbnails
-Requires at least: 2.0
-Tested up to: 5.7.2
+Tags: enclosure, feed, media:content, thumbnail
+Requires at least: 4.0
+Tested up to: 5.9
 Stable tag: 1.0
 Requires PHP: 7.0
 License: AGPLv3 or later
