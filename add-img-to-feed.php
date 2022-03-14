@@ -2,7 +2,7 @@
 /*
 Plugin Name: Add Image to Feed
 Description: Add image media content and enclosure tags to RSS
-Version:     1.0
+Version:     1.4
 Author:      lesion
 License:  AGPL 3.0
 
